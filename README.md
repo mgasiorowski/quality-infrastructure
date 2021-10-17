@@ -4,8 +4,6 @@ Pull requests welcome.
 
 ## Table of Contents
 
-=================
-
 * [Legend](#legend)
 * [Infrastructure as Code](#infrastructure-as-code)
   * [Static analysis](#static-analysis)
