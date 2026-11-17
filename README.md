@@ -57,11 +57,18 @@ Pull requests welcome.
 
 * [ShellCheck](https://github.com/koalaman/shellcheck)
 
+## Testing
+
+### Simulation
+
+* [Tickloom](https://github.com/unmeshjoshi/tickloom)
+
 ## Web Links
 
 ### Testing
 
 * [List of resources on testing distributed systems](https://github.com/asatarin/testing-distributed-systems)
+* [Deterministic Simulation Testing](https://martinfowler.com/articles/deterministic-simulation-testing.html)
 
 ## Contributing
 
